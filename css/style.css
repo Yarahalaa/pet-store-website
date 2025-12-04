@@ -16,11 +16,11 @@
 }
 .text-intro {
     text-align: center;
-    max-width: 500px;   /* tighter width */
-    margin: 1rem auto;  /* reduces vertical gap */
-    font-size: 1.1rem;  /* smaller text */
-    line-height: 1.4;   /* more compact */
-    font-weight: 600;   /* still boldish but cleaner */
+    max-width: 500px;   
+    margin: 1rem auto;  
+    font-size: 1.1rem;  
+    line-height: 1.4;   
+    font-weight: 600;   
 }
 
 
@@ -536,11 +536,6 @@ footer {
   text-decoration: none;
   margin-top: 12px;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 98edcc6 (Initial commit: added website files)
-/* TAGS */
 .tags span {
     display: inline-block;
     background: #eee;
@@ -550,7 +545,6 @@ footer {
     font-size: 13px;
 }
 
-/* PRODUCT AREA */
 .products {
     flex: 1;
 }
@@ -567,7 +561,6 @@ footer {
     gap: 20px;
 }
 
-/* PRODUCT CARD */
 .product-card {
     background: white;
     padding: 15px;
@@ -576,84 +569,32 @@ footer {
     text-align: center;
 }
 
-.product-card1 img {
-    width: 100%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
-    margin-bottom: 10px;
-}
-.product-card2 img {
-    width: 100%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
-    margin-bottom: 10px;
-}
-.product-card3 img {
-    width: 100%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
-    margin-bottom: 10px;
-}
-
-.product-card4 img {
-    width: 100%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
-    margin-bottom: 10px;
-}
-.product-card5 img {
-    width: 100%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
-    margin-bottom: 10px;
-}
 .product-card6 img {
     width: 100%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
+    height: 300px;       
+    object-fit: cover;   
+    border-radius: 10px; 
     margin-bottom: 10px;
 }
 
 .product-card7 img {
     width: 70%;
-    height: 400px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
+    height: 400px;       
+    object-fit: cover;   
+    border-radius: 10px; 
     margin-bottom: 10px;
 }
-
-.product-card8 img {
-    width: 115%;
-    height: 300px;        /* you can change the height */
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
-    margin-bottom: 10px;
-}
-
 
 .product-card9 img {
     width: 100%;
-    height: auto;        /* you can change the height */
+    height: auto;        
     aspect-ratio: 569/375;
-    object-fit: cover;    /* keeps image from stretching */
-    border-radius: 10px;  /* optional – makes rounded corners */
+    object-fit: cover;    
+    border-radius: 10px;  
     margin-bottom: 10px;
 }
-<<<<<<< HEAD
 
 .price {
     font-weight: bold;
     color: #222;
 }
-=======
-.price {
-    font-weight: bold;
-    color: #222;
-}
->>>>>>> 98edcc6 (Initial commit: added website files)
