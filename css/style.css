@@ -585,6 +585,53 @@ footer {
     margin-bottom: 10px;
 }
 
+.product-card4 img {
+    width: 100%;
+    height: 300px;        /* you can change the height */
+    object-fit: cover;    /* keeps image from stretching */
+    border-radius: 10px;  /* optional – makes rounded corners */
+    margin-bottom: 10px;
+}
+.product-card5 img {
+    width: 100%;
+    height: 300px;        /* you can change the height */
+    object-fit: cover;    /* keeps image from stretching */
+    border-radius: 10px;  /* optional – makes rounded corners */
+    margin-bottom: 10px;
+}
+.product-card6 img {
+    width: 100%;
+    height: 300px;        /* you can change the height */
+    object-fit: cover;    /* keeps image from stretching */
+    border-radius: 10px;  /* optional – makes rounded corners */
+    margin-bottom: 10px;
+}
+
+.product-card7 img {
+    width: 70%;
+    height: 400px;        /* you can change the height */
+    object-fit: cover;    /* keeps image from stretching */
+    border-radius: 10px;  /* optional – makes rounded corners */
+    margin-bottom: 10px;
+}
+
+.product-card8 img {
+    width: 115%;
+    height: 300px;        /* you can change the height */
+    object-fit: cover;    /* keeps image from stretching */
+    border-radius: 10px;  /* optional – makes rounded corners */
+    margin-bottom: 10px;
+}
+
+
+.product-card9 img {
+    width: 100%;
+    height: auto;        /* you can change the height */
+    aspect-ratio: 569/375;
+    object-fit: cover;    /* keeps image from stretching */
+    border-radius: 10px;  /* optional – makes rounded corners */
+    margin-bottom: 10px;
+}
 
 .price {
     font-weight: bold;
