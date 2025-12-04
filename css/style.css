@@ -14,6 +14,15 @@
 *::after {
   box-sizing: border-box;
 }
+.text-intro {
+    text-align: center;
+    max-width: 500px;   /* tighter width */
+    margin: 1rem auto;  /* reduces vertical gap */
+    font-size: 1.1rem;  /* smaller text */
+    line-height: 1.4;   /* more compact */
+    font-weight: 600;   /* still boldish but cleaner */
+}
+
 
 body {
   margin: 0;
@@ -527,6 +536,10 @@ footer {
   text-decoration: none;
   margin-top: 12px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 98edcc6 (Initial commit: added website files)
 /* TAGS */
 .tags span {
     display: inline-block;
@@ -632,8 +645,15 @@ footer {
     border-radius: 10px;  /* optional – makes rounded corners */
     margin-bottom: 10px;
 }
+<<<<<<< HEAD
 
 .price {
     font-weight: bold;
     color: #222;
 }
+=======
+.price {
+    font-weight: bold;
+    color: #222;
+}
+>>>>>>> 98edcc6 (Initial commit: added website files)
